@@ -46,7 +46,6 @@
     },
     "QUOTES_API_TOKEN": {
       "description": "Get this value from http://antiddos.systems! Please do not steal",
-      "required": true
     },
     "API_URL": {
       "description": "The value is http://antiddos.systems!",
